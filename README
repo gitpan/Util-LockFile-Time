@@ -1,0 +1,42 @@
+Util-LockFile-Time
+
+Timed lock with an advisory file.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc Util::LockFile::Time
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Util-LockFile-Time
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/Util-LockFile-Time
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/Util-LockFile-Time
+
+    Search CPAN
+        http://search.cpan.org/dist/Util-LockFile-Time/
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2011 Kan Liu
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
